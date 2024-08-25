@@ -5,7 +5,7 @@
 <table width="100%" border='0'>
    <tr> 
     <td width="10%" valign="bottom"><img src="logo/itmo.png"></td><td valign="middle">Федеральное государственное автономное образовательное учреждение высшего образования «Национальный исследовательский университет <a target="_blank"  <a target="_blank" href="https://itmo.ru/">ИТМО</a> »</td></tr>
-    <td width="10%" valign="bottom"><img src="logo/qaguru.jpg"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+    <td width="10%" valign="bottom"><img src="logo/qaguru.jpg"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a> (В процессе)).</td></tr>
    </tr>
   </table>
   </br>
