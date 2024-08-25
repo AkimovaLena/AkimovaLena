@@ -21,5 +21,5 @@
 <a href="https://www.atlassian.com/software/jira"><img width="6%" title="Jira" src="logo/Jira.svg"/></a>  
 </p>
 
-Мой демо-проект по автоматизации UI/API тестирования для компании [<img width="15%" title="chitai_gorod" src="logo/paw.png"/>](https://www.chitai-gorod.ru/) - [Ссылка на проект](https://github.com/AkimovaLena/qa_guru_final_project)
-Мой демо-проект по автоматизации mobile тестирования для компании [<img width="15%" title="WB" src="logo/wb.png"/>](https://global.wildberries.ru/) - [Ссылка на проект](https://github.com/AkimovaLena/qa_guru_final_project_mobile)
+Мой демо-проект по автоматизации UI/API тестирования для компании [<img width="3%" title="chitai_gorod" src="logo/paw.png"/>](https://www.chitai-gorod.ru/) - [Ссылка на проект](https://github.com/AkimovaLena/qa_guru_final_project)
+Мой демо-проект по автоматизации mobile тестирования для компании [<img width="10%" title="WB" src="logo/wb.png"/>](https://global.wildberries.ru/) - [Ссылка на проект](https://github.com/AkimovaLena/qa_guru_final_project_mobile)
