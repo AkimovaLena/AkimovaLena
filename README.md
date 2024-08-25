@@ -1,4 +1,4 @@
-<h1 align="center">Всем привет, меня зовут Лена и я QA Engineer</a> 
+<h1 align="center">Всем привет, меня зовут Лена и я QA Engineer с 2019г.</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">Образование: </h3>
